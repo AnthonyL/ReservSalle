@@ -1,0 +1,7 @@
+.classpath
+.settings/
+target/
+target-eclipse/
+.project
+application.properties
+*~
